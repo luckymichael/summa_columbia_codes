@@ -19,11 +19,11 @@
 `streamflow.py` handles streamflow data and makes streamflow plot. It also make an animation showing the monthly streamflow distribution:
 
 
-<img src="streamflow_daily.png" width="500">
+<img src="streamflow_daily.png" width="800">
 
 
 `subbasin_hydrology_vic_summa.py` handles water balance:
 
 
-<img src="wat_bal_subbasin.png" width="800">
+<img src="wat_bal_subbasin.png" width="1000">
 
